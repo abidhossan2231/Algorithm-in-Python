@@ -1,3 +1,6 @@
+#Abid Hossan Hridoy
+# abidhossan2231 - Github, Twitter, Instagram, HackerEarth, Pinterest, stack overflow, website
+
 # function to find the partition position
 def partition(array, low, high):
 
