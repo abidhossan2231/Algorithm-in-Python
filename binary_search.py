@@ -1,3 +1,6 @@
+#Abid Hossan Hridoy
+# abidhossan2231 - Github, Twitter, Instagram, HackerEarth, Pinterest, stack overflow, website
+
 def binary_sort(sorted_list, length, key):
     start = 0
     end = length - 1
