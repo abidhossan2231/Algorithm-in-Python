@@ -1,3 +1,6 @@
+#Abid Hossan Hridoy
+# abidhossan2231 - Github, Twitter, Instagram, HackerEarth, Pinterest, stack overflow, website
+
 import sys
 
 INF = sys.maxsize
