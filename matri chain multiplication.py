@@ -39,7 +39,6 @@ def matrixChainMultiplication(dims, i, j):
     # return the minimum cost to multiply `M[j+1]…M[j]`
     return min
 
-
 # Matrix Chain Multiplication Problem
 if __name__ == '__main__':
     # Matrix `M[i]` has dimension `dims[i-1] × dims[i]` for `i = 1…n`
