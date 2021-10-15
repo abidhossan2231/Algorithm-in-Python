@@ -2,7 +2,7 @@
 def add():
     r = int(input("Enter added person age : \t"))
     data.append(r)
-    print ( "New person list in Orphanage ------" )
+    print("New person list in Orphanage ------")
     print(data)
 
 def relished():
